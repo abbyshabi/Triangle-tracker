@@ -21,3 +21,9 @@ function getTriangleType() {
 }
 	
 }
+function reset()  {
+	document.getElementById("aValue").value = '';
+	document.getElementById("bValue").value = '';
+	document.getElementById("cValue").value = '';
+	document.getElementById('answer').value = '';
+}

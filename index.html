@@ -6,24 +6,26 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<h1><strong> Welcome to the Triangle Checker</strong> </h1><br>
-	<h3><em> Do you know your triangles?<br> Use the triangle tracker to determine triangle type......</em></h3><br><br>
-	<script src="js/script.js"></script>
-	<div class ="container">
-		<label for = "aValue">Please Enter A Value:</label>
-		<input type="number" name="A" id="aValue">
-		<br><br>
-		<label for = "aValue">Please Enter A Value:</label>
-		<input type="number" name="B" id="bValue">
-		<br><br>
-		<label for = "aValue">Please Enter A Value:</label>
-		<input type="number" name="C" id="cValue">
-		<br><br>
+	<div id class="main">
+		<h1><strong> Welcome to the Triangle Checker</strong> </h1><br>
+		<h3><em> Do you know your triangles?<br> Use the triangle tracker to determine triangle type......</em></h3><br><br>
+		<script src="js/script.js"></script>
+		<div class ="container">
+			<label for = "aValue">Please Enter A Value:</label>
+			<input type="number" name="A" id="aValue">
+			<br><br>
+			<label for = "aValue">Please Enter A Value:</label>
+			<input type="number" name="B" id="bValue">
+			<br><br>
+			<label for = "aValue">Please Enter A Value:</label>
+			<input type="number" name="C" id="cValue">
+			<br><br>
 
-		<button class="button" onclick="getTriangleType()"> Check </button><br>
-		<p><em>Answer: </em>
-		<input type="text" name="Answer" id="answer"></p>
+			<button class="button" onclick="getTriangleType()"> Check </button><br>
+			<p><em>Answer: </em>
+			<input type="text" name="Answer" id="answer"></p>
+			</div>
+		<button onclick="reset()"><em> Reset </em></button>
 	</div>
-	<button onclick="reset"><em> Reset </em></button>
 </body>
 </html>
