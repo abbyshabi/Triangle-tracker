@@ -13,4 +13,8 @@ function getTriangleType() {
 	else if (a != b != c) {
 		document.getElementById('answer').innerHTML = 'Not a Triangle'
 	}
-	
+	else {
+		{
+		document.getElementById('answer').innerHTML = 'Scalene'
+	}
+}
