@@ -8,5 +8,9 @@ function getTriangleType() {
 		document.getElementById('answer').innerHTML = 'Equilateral Triangle'
 	}
 	else if (a == b || a == c || b == c){
-		document.getElementById('answer').innerHTML = 'Isoceles'
+		document.getElementById('answer').innerHTML = 'Isoceles Triangle'
 	}
+	else if (a != b != c) {
+		document.getElementById('answer').innerHTML = 'Not a Triangle'
+	}
+	
