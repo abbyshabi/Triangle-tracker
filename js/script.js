@@ -5,16 +5,19 @@ function getTriangleType() {
 	var c = parseInt(document.getElementById("cValue").value);
 
 	if(a == b && b == c) {
-		document.getElementById('answer').innerHTML = 'Equilateral Triangle'
+		document.getElementById('answer').innerHTML = 'Equilateral'
 	}
 	else if (a == b || a == c || b == c){
-		document.getElementById('answer').innerHTML = 'Isoceles Triangle'
+		document.getElementById('answer').innerHTML = 'Isoceles'
 	}
 	else if (a != b != c) {
+		//console.log(a+b)
+		if (((a + b) <= c) || ((a + c) <= b) || ((c + b) <= a)) {
 		document.getElementById('answer').innerHTML = 'Not a Triangle'
-	}
+	} 
 	else {
-		{
 		document.getElementById('answer').innerHTML = 'Scalene'
 	}
+}
+	
 }
