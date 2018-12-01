@@ -1,12 +1,12 @@
 body{
-	background-color: #ff884d;
+	background:white;
+	background-image: url(fun.jpg);
+	background-filter:alpha;
+	/*opacity=0.6;*/
+	align-content: center;
+	align-items: center;
+	padding-top:30px;
 	text-align: center;
-}
-#main{
-	width:1000px;
-	height: 800px; 
-	background-color: white;
-	margin: 25px auto; 
-	border: solid 2px black;
-	padding: 15px;
+	
+
 }
