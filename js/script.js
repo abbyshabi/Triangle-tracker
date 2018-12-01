@@ -26,4 +26,4 @@ function reset()  {
 	document.getElementById("bValue").value = '';
 	document.getElementById("cValue").value = '';
 	document.getElementById('answer').value = '';
-}
+}  
