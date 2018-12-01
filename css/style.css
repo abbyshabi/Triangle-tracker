@@ -12,7 +12,10 @@ body{
 }
 #main{
 	background-color: #7575a3;
-
+}
+img{
+	height: 80px;
+	width: 600px;
 }
 #p{
 	font-size: 18px;
