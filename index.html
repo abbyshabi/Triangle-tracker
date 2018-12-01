@@ -9,26 +9,30 @@
 		<img src="images/welcome.gif"> 
 		<h1><strong> Welcome to the Triangle Checker</strong> </h1><br>
 		<h3><em> Do you know your triangles?<br> Use the triangle tracker to determine triangle type......</em></h3><br><br>
+	</header>
 </head>
 <body>
-	<div id ="main">
-		<script src="js/script.js"></script>
-		<div class ="container">
-			<label for = "aValue">Please Enter A Value:</label>
-			<input type="number" name="A" id="aValue">
-			<br><br>
-			<label for = "aValue">Please Enter A Value:</label>
-			<input type="number" name="B" id="bValue">
-			<br><br>
-			<label for = "aValue">Please Enter A Value:</label>
-			<input type="number" name="C" id="cValue">
-			<br><br>
-
+	<script src="js/script.js"></script>
+	<div class ="container">
+			<div class=" box-1">
+ 				<p>
+ 					Please input a Number: <input type="Number" name="a" id="aValue">
+ 				</p>
+ 			</div>
+ 			<div class="box-2">
+ 				<p>
+ 					Please input a Number: <input type="Number" name="b" id="bValue">
+ 				</p>
+ 			</div>
+ 			<div class="box-3">
+ 				<p>
+ 					Please input a Number: <input type="Number" name="c" id="cValue">
+ 				</p>
+ 			</div>
 			<button class="button" onclick="getTriangleType()"> Check </button><br>
 			<p><em>Answer: </em>
 			<input type="text" name="Answer" id="answer"></p>
-			</div>
-		<button onclick="reset()"><em> Reset </em></button>
+			<button onclick="reset()"><em> Reset </em></button>
 	</div>
 </body>
 </html>
