@@ -2,10 +2,10 @@ function getTriangleType() {
 
 	var X = ['','',''];
 
-	var a = parseInt(document.getElementById("aValue").value);
-	var b = parseInt(document.getElementById("bValue").value);
-	var c = parseInt(document.getElementById("cValue").value);
-
+	X[0] = parseInt(document.getElementById("aValue").value);
+	X[1] = parseInt(document.getElementById("bValue").value);
+	X[2] = parseInt(document.getElementById("cValue").value);
+	
 	if(a == b && b == c) {
 		document.getElementById('answer').value = 'Equilateral'
 	}
