@@ -7,11 +7,14 @@ body{
 	align-items: center;
 	padding-top:30px;
 	text-align: center;
+	
+
 }
 #main{
-	background-color: white;
+	background-color: #7575a3;
 
-}#p{
+}
+#p{
 	font-size: 18px;
 	color:#4d2600;
 }
