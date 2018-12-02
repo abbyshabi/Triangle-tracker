@@ -1,0 +1,405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"is",
+				"Isoceles"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"ans",
+				"Answer"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gree",
+				"greeting2"
+			],
+			[
+				"ap",
+				"appleColor"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"num",
+				"number2"
+			],
+			[
+				"j",
+				"Javascript"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"fa",
+				"Facebook"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"bu",
+				"button1"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"style",
+				"border-style\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/AbbyShabi/Desktop/moringa/triangle-tracker/index.html",
+		"/Users/AbbyShabi/Desktop/moringa/triangle-tracker/css/style.css",
+		"/Users/AbbyShabi/Desktop/project/my-triangle/triangle.css",
+		"/Users/AbbyShabi/Desktop/project/my-triangle/script.js",
+		"/Users/AbbyShabi/Desktop/project/my-triangle/index.html",
+		"/Users/AbbyShabi/Desktop/project/index nov.html",
+		"/Users/AbbyShabi/Desktop/project/css/style.css",
+		"/Users/AbbyShabi/Desktop/project/index.html",
+		"/Users/AbbyShabi/Desktop/project/css/index1.css",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder/index.css",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder/index.html",
+		"/Users/AbbyShabi/Desktop/project/dammy1.html",
+		"/Users/AbbyShabi/Desktop/experiment/untitled.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder2/aboutme.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder2/my-portfolio.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder2/index.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder2/index.css",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/variables and data types.html",
+		"/Users/AbbyShabi/Desktop/moringa/calculator/js/scripts.js",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/find error .html",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/changeHTMLstyle.html",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/alertmessage.html",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/checkhtml.html",
+		"/Users/AbbyShabi/Desktop/experiment/products.html",
+		"/Users/AbbyShabi/Desktop/experiment/index.html",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/buttons.html",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/code.js",
+		"/Users/AbbyShabi/Desktop/experiment/javascript/alertmessage",
+		"/Users/AbbyShabi/Desktop/experiment/style.css",
+		"/Users/AbbyShabi/Desktop/moringa/my-folder/my-portfolio.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-portfolio/dammy2.html",
+		"/Users/AbbyShabi/Desktop/moringa/my-portfolio/index.css",
+		"/Users/AbbyShabi/Desktop/practicals nov/nov.css",
+		"/Users/AbbyShabi/Desktop/project/css/delete.css",
+		"/Users/AbbyShabi/Desktop/project/untitled.html",
+		"/Users/AbbyShabi/Desktop/project/css/dammy.css",
+		"/Users/AbbyShabi/Desktop/project/index1.css",
+		"/Users/AbbyShabi/Desktop/project/index nov.css",
+		"/Users/AbbyShabi/Desktop/project/dammy2.html",
+		"/Users/AbbyShabi/Desktop/new2.html",
+		"/Users/AbbyShabi/Desktop/new.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
