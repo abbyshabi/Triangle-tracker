@@ -5,10 +5,16 @@
 The Triangle-Tracker is a web based application used for determining triangle types. it prompts the user to input three variables which are the sides of the triangle,
 then it gives the triangle type and brief description of the triangle in the answer box.
 ## Setup/Installation Requirements
-* Open on a web browser
-* Input three varibles 
-* Check for answer with the check button
-* Reset to clear and refresh page
+* Access github on a web browser
+* clone this repository  from https://github.com/abbyshabi/Triangle-tracker
+## Behaviour Driven Development
+* A system that determines the type of triangles
+* When user inputs 3 equal values(e.g 3,3,3) , the Triangle is an Equilateral Triangle
+* When user inputs 2 equal values(e.g 3,3,2) , the Triangle is an Isoceles Triangle
+* When user inputs 3 different values (e.g 3,2,4) , the Triangle is a Scalene Triangle
+* When user inputs 3 different values a,b,c and (a+b <= c), the system outputs it is not a triangle.
+## Live Demo
+ Here is a link to a live demo : https://abbyshabi.github.io/Triangle-tracker/
 ## Known Bugs
 There are no known bugs for this application
 ## Technologies Used
